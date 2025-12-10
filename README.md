@@ -33,7 +33,7 @@ pixel-art-brain/
 
 ## 🎨 Example Output
 
-![Brain Pixel Art](brain_pixel_art.png)
+![Brain Pixel Art](images/brain_pixel_art.png)
 
 ---
 
