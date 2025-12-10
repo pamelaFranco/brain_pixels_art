@@ -7,17 +7,18 @@ The algorithm maps pixel brightness to a festive color palette (green, red, gold
 
 ## 📂 Project Structure
 
+```text
 pixel-art-brain/
 |
 |-- processing/
-|   `-- pixel_brain_xmas.pde
+|   `-- pixel_brain_xmas.pde        # Processing code
 |
 |-- images/
-|   |-- brain.png
-|   `-- brain_pixel_art.png
+|   |-- brain.png                   # Original MRI slice
+|   `-- brain_pixel_art.png         # Generated Christmas pixel art
 |
-`-- README.md
-
+`-- README.md                       # Project documentation
+```
 
 ---
 
