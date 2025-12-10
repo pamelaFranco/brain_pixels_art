@@ -33,7 +33,7 @@ pixel-art-brain/
 
 ## 🎨 Example Output
 
-images/brain_pixel_art.png
+![Brain Pixel Art](brain_pixel_art.png)
 
 ---
 
@@ -52,4 +52,5 @@ MIT License — free to use, modify, and share.
 
 ## ✨ Author
 
-Created for fun, art, and scientific communication  🎄🧠  
+Created for fun, art, and scientific communication 
+Visit:  https://www.instagram.com/neuro_artint/ 🎄🧠  
